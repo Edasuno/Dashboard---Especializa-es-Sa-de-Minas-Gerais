@@ -56,7 +56,7 @@ streamlit run data_view.py
 ````
 
 
-> Também é possível acessar a versão WEB do dashboard via Streamlit.io
+> Também é possível acessar a versão WEB do dashboard via streamlit.io
 
 ---
 ## 🧑‍💻 Contribuições 
