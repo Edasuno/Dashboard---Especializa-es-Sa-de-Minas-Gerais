@@ -56,7 +56,7 @@ streamlit run data_view.py
 ````
 
 
-> Também é possível acessar a versão WEB do dashboard via streamlit.io
+> Também é possível acessar a versão WEB do dashboard via medicosmg.streamlit.app/
 
 ---
 ## 🧑‍💻 Contribuições 
