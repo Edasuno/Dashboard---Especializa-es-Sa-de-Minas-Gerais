@@ -7,7 +7,7 @@ import plotly.express as px
 
 #Data
 
-df = pd.read_csv("./newdata.csv")
+df = pd.read_csv("/data/newdata.csv")
 
 totalmed = df.shape[0]
 
