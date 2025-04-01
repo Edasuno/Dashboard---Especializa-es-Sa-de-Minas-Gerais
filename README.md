@@ -66,7 +66,7 @@ Todas as Contribuições são totalmente bem-vindas. Caso deseje sugerir melhori
 ---
 ### ✨Agradecimentos
 
-Um agradecimento especial à minha amiga, que participou desse projeto contribuindo com uma versão V1 em (HTML, CSS e JS) do projeto, a qual ainda não tive a oportunidade de publicar. Este  estará disponível futuramente. 
+Um agradecimento especial à minha amiga Bianca (https://github.com/Mangaka02), que participou desse projeto contribuindo com uma versão V1 em (HTML, CSS e JS) do projeto, a qual ainda não tive a oportunidade de publicar. Este  estará disponível futuramente. 
 
 
 
